@@ -67,4 +67,10 @@ window.ZLOMBIE_TRACKS = [
     downloadUrl: 'https://rmswqjoqdadqosvvddrl.supabase.co/storage/v1/object/public/Zlombie/kolobok.mp3',
     filename: 'Zlombie - Колобок: No Good.mp3'
   }
+  {
+    title: 'Zlombie - Попрошу Тебя',
+    url: 'https://rmswqjoqdadqosvvddrl.supabase.co/storage/v1/object/public/Zlombie/poproshu_tebya.mp3',
+    downloadUrl: 'https://rmswqjoqdadqosvvddrl.supabase.co/storage/v1/object/public/Zlombie/poproshu_tebya.mp3',
+    filename: 'Zlombie - Попрошу Тебя.mp3'
+  }
 ];
