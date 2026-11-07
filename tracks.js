@@ -71,6 +71,6 @@ window.ZLOMBIE_TRACKS = [
     title: 'Zlombie - Газлайтер',
     url: 'https://rmswqjoqdadqosvvddrl.supabase.co/storage/v1/object/public/Zlombie/gaslighter.mp3',
     downloadUrl: 'https://rmswqjoqdadqosvvddrl.supabase.co/storage/v1/object/public/Zlombie/gaslighter.mp3',
-    filename: 'Zlombie - Газлайтер'
+    filename: 'Zlombie - Газлайтер.mp3'
   }
 ];
