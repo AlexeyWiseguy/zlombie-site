@@ -1,6 +1,18 @@
 // Каталог заполняется настоящими треками после получения аудиофайлов.
 // Формат записи: { title: 'Название', url: 'audio/track.mp3' }
 window.ZLOMBIE_TRACKS = [
+   {
+    title: 'Zlombie - Камила (Пять Раз)',
+    url: 'https://rmswqjoqdadqosvvddrl.supabase.co/storage/v1/object/public/Zlombie/kamila.mp3',
+    downloadUrl: 'https://rmswqjoqdadqosvvddrl.supabase.co/storage/v1/object/public/Zlombie/kamila.mp3',
+    filename: 'Zlombie - Камила (Пять Ращ).mp3'
+  },
+  {
+    title: 'Zlombie - Газлайтер',
+    url: 'https://rmswqjoqdadqosvvddrl.supabase.co/storage/v1/object/public/Zlombie/gaslighter.mp3',
+    downloadUrl: 'https://rmswqjoqdadqosvvddrl.supabase.co/storage/v1/object/public/Zlombie/gaslighter.mp3',
+    filename: 'Zlombie - Газлайтер.mp3'
+  },
   {
     title: 'Zlombie - Сосулька',
     url: 'https://rmswqjoqdadqosvvddrl.supabase.co/storage/v1/object/public/Zlombie/Zlombie_Sosulka.mp3',
@@ -66,11 +78,5 @@ window.ZLOMBIE_TRACKS = [
     url: 'https://rmswqjoqdadqosvvddrl.supabase.co/storage/v1/object/public/Zlombie/kolobok.mp3',
     downloadUrl: 'https://rmswqjoqdadqosvvddrl.supabase.co/storage/v1/object/public/Zlombie/kolobok.mp3',
     filename: 'Zlombie - Колобок: No Good.mp3'
-  },
-  {
-    title: 'Zlombie - Газлайтер',
-    url: 'https://rmswqjoqdadqosvvddrl.supabase.co/storage/v1/object/public/Zlombie/gaslighter.mp3',
-    downloadUrl: 'https://rmswqjoqdadqosvvddrl.supabase.co/storage/v1/object/public/Zlombie/gaslighter.mp3',
-    filename: 'Zlombie - Газлайтер.mp3'
   }
 ];
