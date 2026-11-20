@@ -2,10 +2,16 @@
 // Формат записи: { title: 'Название', url: 'audio/track.mp3' }
 window.ZLOMBIE_TRACKS = [
    {
+    title: 'Zlombie - На Груди Авторитета',
+    url: 'https://rmswqjoqdadqosvvddrl.supabase.co/storage/v1/object/public/Zlombie/na_grudi_avtoriteta.mp3',
+    downloadUrl: 'https://rmswqjoqdadqosvvddrl.supabase.co/storage/v1/object/public/Zlombie/na_grudi_avtoriteta.mp3',
+    filename: 'Zlombie - На Груди Авторитета.mp3'
+  },
+   {
     title: 'Zlombie - Камила (Пять Раз)',
     url: 'https://rmswqjoqdadqosvvddrl.supabase.co/storage/v1/object/public/Zlombie/kamila.mp3',
     downloadUrl: 'https://rmswqjoqdadqosvvddrl.supabase.co/storage/v1/object/public/Zlombie/kamila.mp3',
-    filename: 'Zlombie - Камила (Пять Ращ).mp3'
+    filename: 'Zlombie - Камила (Пять Раз).mp3'
   },
   {
     title: 'Zlombie - Газлайтер',
